@@ -8,6 +8,7 @@ It used to be a very basic static page written in HTML + CSS, but now it's a Rea
 * Font is `JetBrains Mono` from [Google Fonts](https://fonts.google.com).
 * All icons are vectors from [Simple Icons](https://simpleicons.org).
 * Styling is done with [Tailwind](https://tailwindcss.com/).
+* CV is made with [RenderCV](https://docs.rendercv.com).
 
 ## License
 

@@ -28,11 +28,36 @@ jobs:
           node-version: 22
           cache: npm
 
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
       - name: Install dependencies
         run: npm ci
 
       - name: Build
         run: npm run build
+
+      - name: Install RenderCV
+        if: hashFiles('cv.yaml') != ''
+        run: pip install "rendercv[full]"
+
+      - name: Download CV photo
+        if: hashFiles('cv.yaml') != ''
+        run: |
+          # Gravatar for m.akif.tutuncu@gmail.com
+          curl -L "https://gravatar.com/avatar/7874b1a2b3af81d12643f8b6d9c828f5?s=480" -o photo.png
+
+      - name: Render CV to dist/cv.pdf
+        if: hashFiles('cv.yaml') != ''
+        run: |
+          rendercv render cv.yaml \
+            --pdf-path dist/cv.pdf \
+            --dont-generate-html \
+            --dont-generate-markdown \
+            --dont-generate-png
 
       - name: Copy CNAME for custom domain
         if: hashFiles('CNAME') != ''

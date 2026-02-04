@@ -1,0 +1,315 @@
+cv:
+  name: Mehmet Akif Tütüncü
+  headline: Lead/Senior Software Engineer
+  location: Utrecht, Netherlands
+  email: mat@akif.dev
+  phone: "+31 6 87986887"
+  website: https://akif.dev
+  photo: photo.png
+
+  sections:
+    introduction:
+      - "12+ years of professional experience in backend development with a specialization in JVM technologies such as Scala, Kotlin, and Java. Provided consulting services to global companies, emphasizing object-oriented and functional programming. Strong background in CI/CD, testing, databases, cloud infrastructure, microservices, and software architecture. Developed open-source tools for developers, gave voluntary lectures, and presented at conferences and meetups. Interests include traveling, cooking, and rock/metal music."
+
+    experience:
+      - company: "[bol](https://bol.com)"
+        position: Engineer
+        location: Utrecht, Netherlands
+        start_date: 2025-04
+        end_date: present
+        highlights:
+          - "Part of **Data and Regulatory Management** (aka DREAM) team in retailing; delivered a production service for EUDR, ran user interviews & usability tests, held regular program-wide reviews, aligned stakeholders, and closed UX/process gaps ahead of the legislation being enforced"
+          - "Helped convert managing FTP access from manual, multi-party effort into a supplier self-service feature"
+          - "Strengthened reliability & team learning culture, owned an incident end-to-end, led a blameless post-mortem, and uplifted monitoring/alerting"
+          - "Modernized and maintained the platform at scale; decommissioning legacy services, performing 8+ runtime/platform upgrade rounds per year across 10+ services, removing high/critical vulnerabilities and improving pipeline reliability/build times"
+          - "**Skills:** Angular, DDD, Docker, Elastic, FTP, Git, Grafana, Java, JUnit, Kotlin, Kubernetes, Maven, OOP, Playwright, PostgreSQL, React, Spring Boot, Storybook, TestContainers, TypeScript, Vite"
+
+      - company: "[iO](https://iodigital.com)"
+        position: Lead Software Engineer
+        location: Utrecht, Netherlands
+        start_date: 2022-12
+        end_date: 2025-03
+        highlights:
+          - "Joined a team in store domain to integrate software of devices in **Jumbo** stores into a new backend layer"
+          - "Led development in a team of 6 for an internal documentation platform supporting 1000+ applications at **Rabobank**"
+          - "Migrated 4 backend services into a new architecture enabling extensibility of the portal"
+          - "Integrated with Azure AI services in 3 months to build a smart assistant answering questions based on portal documentation"
+          - "As a **tech lead**, presented at 3 conferences; delivered 3 public meetups and 2 internal workshops"
+          - "Co-authored 1 article for the company blog"
+          - "Conducted 15 recruitment interviews and review processes"
+          - "Started 3 open-source projects and mentored team members"
+          - "**Skills:** AWS, Azure, Docker, FP, Git, Gradle, GraphQL, Hazelcast, Java, JUnit, Kotlin, Kubernetes, Maven, OOP, PostgreSQL, React, Reactive Programming, SCRUM, Spring Boot, Spring Framework, TestContainers, TypeScript"
+
+      - company: "[Scalac](https://scalac.io)"
+        position: Senior Software Engineer
+        location: Istanbul, Turkey
+        start_date: 2021-11
+        end_date: 2022-11
+        highlights:
+          - "Consulting for **Conduktor**; migrated legacy Java APIs to a new Scala service (~50 endpoints)"
+          - "Introduced automated verification by comparing responses from both sets of endpoints"
+          - "Developed an admin portal for Conduktor Platform to manage Kafka clusters with easy-to-use UIs"
+          - "**Skills:** Akka, Circe, Docker, FP, Git, GCP, Http4s, Java, JUnit, Kafka, Kanban, Micronaut, OOP, PostgreSQL, Quill, SBT, Scala, ScalaTest, TestContainers, ZIO, Zookeeper"
+
+      - company: "[Numbrs](https://numbrs.com)"
+        position: Senior Software Engineer
+        location: Istanbul, Turkey
+        start_date: 2020-12
+        end_date: 2021-10
+        highlights:
+          - "Developed new features for the Numbrs application in **Personal Finance Management** team"
+          - "Implemented backend services with Go, Java, Scala, Kafka, and Cassandra"
+          - "Created the 'Insights' feature delivering 7 unique, smart, actionable insights based on demographics and transactions"
+          - "**Skills:** Cassandra, Circe, Docker, FP, Git, Go, Gradle, Http4s, Java, JUnit, Kafka, Maven, OOP, PostgreSQL, Quill, Reactive Programming, SBT, Scala, ScalaTest, SCRUM, Spring Boot, Spring Framework, TestContainers, ZIO"
+      
+      - company: "[sahibinden.com](https://sahibinden.com)"
+        position: Senior Software Engineer
+        location: Istanbul, Turkey
+        start_date: 2019-09
+        end_date: 2020-11
+        highlights:
+          - "Joined **search** team; focused on search, promotions, and categories"
+          - "Led a 6-month project to automate updating geo and location data"
+          - "Integrated with a 3rd party data provider and performed 4 production data migrations with no downtime"
+          - "Pioneered use of Kotlin in a Java codebase for the project"
+          - "**Skills:** Cassandra, Docker, Elasticsearch, FP, Git, Java, JUnit, Kafka, Kotlin, Maven, Memcached, MongoDB, MySQL, OOP, SCRUM, Spring Boot, Spring Framework, TestContainers, Zookeeper"
+
+      - company: "[VNGRS](https://vngrs.com)"
+        position: Software Engineer
+        location: Istanbul, Turkey
+        start_date: 2017-06
+        end_date: 2019-09
+        highlights:
+          - "Consulting for **MAF Properties**; joined kick-off process for a rebranding of Ticketless Parking"
+          - "Consulting for **Beam**; implemented 'Ticketless Parking' integrating car parking payments with Beam"
+          - "Stabilized and adapted a mobile payment system to work in Dubai"
+          - "Conducted a cloud migration from Sydney to Dubai"
+          - "Consulting for **Socrata**; created an activity log service for auditing all platform activities"
+          - "Improved the Open Data Platform containing ~20 backend projects"
+          - "**Skills:** ActiveMQ, Akka, AWS, Cats, Circe, Docker, FP, Git, Gradle, Http4s, Java, JUnit, Kanban, Kotlin, Maven, OOP, Play Framework, PostgreSQL, Reactive Programming, Redis, SBT, Scala, ScalaTest, SCRUM, Specs2, Spring Boot, Spring Framework, TestContainers, Zookeeper"
+
+      - company: Linovi
+        position: Software Engineer
+        location: Izmir, Turkey
+        start_date: 2013-10
+        end_date: 2016-10
+        highlights:
+          - "First part-time then transitioned to full-time in **Shazam** team working on self-service campaign management portal"
+          - "Started by writing tests; moved to developing features, fixing bugs, and maintaining CI/CD and build systems"
+          - "Reduced build times by 50%"
+          - "**Skills:** Akka, AWS, DynamoDB, FP, Git, Kanban, MySQL, OOP, Play Framework, Reactive Programming, Redis, Redshift, SBT, Scala, Specs2"
+
+    education:
+      - company: Izmir Institute of Technology
+        position: Computer Engineering
+        start_date: 2009-09
+        end_date: 2014-06
+        location: Izmir, Turkey
+        highlights: []
+    
+    projects:
+      - name: "[tapik](https://tapik.akif.dev)"
+        summary: "Type-safe APIs in Kotlin"
+      - name: "[periodik](https://github.com/makiftutuncu/periodik)"
+        summary: "Read-only property delegate that can provide a value refreshed periodically."
+      - name: "[spring-boot-crud](https://github.com/makiftutuncu/spring-boot-crud)"
+        summary: "Opinionated, REST-ful and generic CRUD operations for Spring Boot applications."
+      - name: "[effect](https://github.com/makiftutuncu/effect)"
+        summary: "Functional effect library in Scala."
+      - name: "[e](https://github.com/makiftutuncu/e)"
+        summary: "Zero-dependency error handling library."
+
+    certifications:
+      - bullet: "Certified Professional for Software Architecture - Foundation Level"
+      - bullet: "Agility: Team Accelerator"
+      - bullet: "AWS Certified Cloud Practitioner"
+      - bullet: "Complete Guide to Elasticsearch"
+      - bullet: "AWS Certified Solutions Architect - Associate"
+
+    publications:
+      - bullet: "[Videos of talks and presentations](https://tinyurl.com/makiftutuncu-talks)"
+      - bullet: "[Blog on dev.to](https://dev.to/makiftutuncu)"
+      - bullet: "[Scala blog in Turkish](https://makiftutuncu.wordpress.com)"
+      - bullet: "[Android blog in Turkish](https://androidce.blogspot.com)"
+
+    languages:
+      - label: Turkish
+        details: Native
+      - label: English
+        details: Professional
+      - label: Dutch
+        details: Beginner
+
+design:
+  theme: engineeringclassic
+
+  page:
+    size: us-letter 
+    top_margin: 0.6in
+    bottom_margin: 0.6in
+    left_margin: 0.5in
+    right_margin: 0.5in
+    show_footer: true
+    show_top_note: true
+
+  colors:
+    body: rgb(0, 0, 0)
+    name: rgb(0, 79, 144)
+    headline: rgb(0, 79, 144)
+    connections: rgb(0, 79, 144)
+    section_titles: rgb(0, 79, 144)
+    links: rgb(0, 79, 144)
+    footer: rgb(128, 128, 128)
+    top_note: rgb(128, 128, 128)
+
+  typography:
+    line_spacing: 0.6em
+    alignment: justified 
+    date_and_location_column_alignment: right
+    font_family: 
+      body: Source Sans 3 
+      name: Source Sans 3
+      headline: Source Sans 3
+      connections: Source Sans 3
+      section_titles: Source Sans 3
+    font_size:
+      body: 10pt
+      name: 30pt
+      headline: 16pt
+      connections: 10pt
+      section_titles: 1.2em
+    small_caps:
+      name: false
+      headline: false
+      connections: false
+      section_titles: false
+    bold:
+      name: true
+      headline: false
+      connections: false
+      section_titles: true
+
+  links:
+    underline: false
+    show_external_link_icon: true
+
+  header:
+    alignment: center 
+    photo_width: 3cm
+    photo_position: left 
+    photo_space_left: 0.2cm
+    photo_space_right: 0.4cm
+    space_below_name: 0.4cm
+    space_below_headline: 0.4cm
+    space_below_connections: 0.4cm
+    connections:
+      phone_number_format: international
+      hyperlink: true
+      show_icons: true
+      display_urls_instead_of_usernames: false
+      separator: '-'
+      space_between_connections: 0.5cm
+
+  section_titles:
+    type: with_partial_line 
+    line_thickness: 0.5pt
+    space_above: 0.5cm
+    space_below: 0.3cm
+
+  sections:
+    allow_page_break: true
+    space_between_regular_entries: 1em
+    space_between_text_based_entries: 0.3em
+    show_time_spans_in: []
+
+  entries:
+    date_and_location_width: 4.15cm
+    side_space: 0.2cm
+    space_between_columns: 0.1cm
+    allow_page_break: false
+    short_second_row: true
+    summary:
+      space_above: 0.2em
+      space_left: 0cm
+    highlights:
+      bullet: • 
+      nested_bullet: •
+      space_left: 0.15cm
+      space_above: 0.2em
+      space_between_items: 0cm
+      space_between_bullet_and_text: 0.5em
+
+  templates: 
+    footer: '*NAME -- PAGE_NUMBER/TOTAL_PAGES*'
+    top_note: '*LAST_UPDATED CURRENT_DATE*'
+    single_date: MONTH_ABBREVIATION YEAR
+    date_range: START_DATE to END_DATE
+    time_span: HOW_MANY_YEARS YEARS HOW_MANY_MONTHS MONTHS
+    one_line_entry:
+      main_column: '**LABEL:** DETAILS'
+    education_entry:
+      main_column: |-
+        **INSTITUTION**, AREA
+        SUMMARY
+        HIGHLIGHTS
+      degree_column: '**DEGREE**'
+      date_and_location_column: |-
+        DATE
+        LOCATION
+    normal_entry:
+      main_column: |-
+        **NAME**
+        SUMMARY
+        HIGHLIGHTS
+      date_and_location_column: |-
+        DATE
+        LOCATION
+    experience_entry:
+      main_column: |-
+        **COMPANY**, POSITION
+        SUMMARY
+        HIGHLIGHTS
+      date_and_location_column: |-
+        DATE
+        LOCATION
+    publication_entry:
+      main_column: |-
+        **TITLE**
+        AUTHORS
+        URL (JOURNAL)
+      date_and_location_column: DATE
+
+locale:
+  language: english
+  last_updated: Last updated in
+  month: month
+  months: months
+  year: year
+  years: years
+  present: Present
+  month_abbreviations:
+    - Jan
+    - Feb
+    - Mar
+    - Apr
+    - May
+    - June
+    - July
+    - Aug
+    - Sept
+    - Oct
+    - Nov
+    - Dec
+  month_names:
+    - January
+    - February
+    - March
+    - April
+    - May
+    - June
+    - July
+    - August
+    - September
+    - October
+    - November
+    - December
