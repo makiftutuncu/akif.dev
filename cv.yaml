@@ -9,19 +9,19 @@ cv:
 
   sections:
     introduction:
-      - "12+ years of professional experience in backend development with a specialization in JVM technologies such as Scala, Kotlin, and Java. Provided consulting services to global companies, emphasizing object-oriented and functional programming. Strong background in CI/CD, testing, databases, cloud infrastructure, microservices, and software architecture. Developed open-source tools for developers, gave voluntary lectures, and presented at conferences and meetups. Interests include traveling, cooking, and rock/metal music."
+      - "12+ years of professional experience in software development with a specialization in JVM technologies such as Scala, Kotlin, and Java. Experienced in guiding cross-functional product teams through discovery and delivery, shaping architecture, and mentoring engineers. Provided consulting services to global companies, with a focus on object-oriented and functional programming. Strong background in CI/CD, testing, databases, cloud infrastructure, microservices, and software architecture. Developed open-source tools for developers, and spoke at conferences, meetups, and community events. Interests include traveling, cooking, and rock/metal music."
 
     experience:
       - company: "[bol](https://bol.com)"
-        position: Engineer
+        position: Senior Software Engineer
         location: Utrecht, Netherlands
         start_date: 2025-04
         end_date: present
         highlights:
-          - "Part of **Data and Regulatory Management** (aka DREAM) team in retailing; delivered a production service for EUDR, ran user interviews & usability tests, held regular program-wide reviews, aligned stakeholders, and closed UX/process gaps ahead of the legislation being enforced"
-          - "Helped convert managing FTP access from manual, multi-party effort into a supplier self-service feature"
-          - "Strengthened reliability & team learning culture, owned an incident end-to-end, led a blameless post-mortem, and uplifted monitoring/alerting"
-          - "Modernized and maintained the platform at scale; decommissioning legacy services, performing 8+ runtime/platform upgrade rounds per year across 10+ services, removing high/critical vulnerabilities and improving pipeline reliability/build times"
+          - "Part of **Data and Regulatory Management** (aka DREAM) team in retailing; delivered a production service for EUDR, ran user interviews and usability tests, held regular program-wide reviews, aligned stakeholders, and closed UX/process gaps ahead of the legislation being enforced"
+          - "Helped transform FTP access management from a manual, multi-party effort into a supplier self-service feature"
+          - "Strengthened reliability and team learning culture, owned an incident end-to-end, led a blameless post-mortem, and improved monitoring and alerting"
+          - "Modernized and maintained the platform at scale: decommissioned legacy services, performed 8+ runtime and platform upgrade rounds per year across 10+ services, removed high and critical vulnerabilities, and improved pipeline reliability and build times"
           - "**Skills:** Angular, DDD, Docker, Elastic, FTP, Git, Grafana, Java, JUnit, Kotlin, Kubernetes, Maven, OOP, Playwright, PostgreSQL, React, Spring Boot, Storybook, TestContainers, TypeScript, Vite"
 
       - company: "[iO](https://iodigital.com)"
@@ -30,13 +30,13 @@ cv:
         start_date: 2022-12
         end_date: 2025-03
         highlights:
-          - "Joined a team in store domain to integrate software of devices in **Jumbo** stores into a new backend layer"
+          - "Joined a team in the store domain to integrate device software in **Jumbo** stores into a new backend layer"
           - "Led development in a team of 6 for an internal documentation platform supporting 1000+ applications at **Rabobank**"
           - "Migrated 4 backend services into a new architecture enabling extensibility of the portal"
           - "Integrated with Azure AI services in 3 months to build a smart assistant answering questions based on portal documentation"
-          - "As a **tech lead**, presented at 3 conferences; delivered 3 public meetups and 2 internal workshops"
+          - "As a **tech lead**, presented at 3 conferences; organized 3 public meetups and delivered 2 internal workshops"
           - "Co-authored 1 article for the company blog"
-          - "Conducted 15 recruitment interviews and review processes"
+          - "Conducted 15 technical recruitment interviews"
           - "Started 3 open-source projects and mentored team members"
           - "**Skills:** AWS, Azure, Docker, FP, Git, Gradle, GraphQL, Hazelcast, Java, JUnit, Kotlin, Kubernetes, Maven, OOP, PostgreSQL, React, Reactive Programming, SCRUM, Spring Boot, Spring Framework, TestContainers, TypeScript"
 
@@ -57,7 +57,7 @@ cv:
         start_date: 2020-12
         end_date: 2021-10
         highlights:
-          - "Developed new features for the Numbrs application in **Personal Finance Management** team"
+          - "Developed new features for the Numbrs application in the **Personal Finance Management** team"
           - "Implemented backend services with Go, Java, Scala, Kafka, and Cassandra"
           - "Created the 'Insights' feature delivering 7 unique, smart, actionable insights based on demographics and transactions"
           - "**Skills:** Cassandra, Circe, Docker, FP, Git, Go, Gradle, Http4s, Java, JUnit, Kafka, Maven, OOP, PostgreSQL, Quill, Reactive Programming, SBT, Scala, ScalaTest, SCRUM, Spring Boot, Spring Framework, TestContainers, ZIO"
@@ -68,10 +68,10 @@ cv:
         start_date: 2019-09
         end_date: 2020-11
         highlights:
-          - "Joined **search** team; focused on search, promotions, and categories"
-          - "Led a 6-month project to automate updating geo and location data"
+          - "Joined the **search** team; focused on search, promotions, and categories"
+          - "Led a 6-month project to automate geographic and location data updates"
           - "Integrated with a 3rd party data provider and performed 4 production data migrations with no downtime"
-          - "Pioneered use of Kotlin in a Java codebase for the project"
+          - "Pioneered the use of Kotlin in a Java codebase for the project"
           - "**Skills:** Cassandra, Docker, Elasticsearch, FP, Git, Java, JUnit, Kafka, Kotlin, Maven, Memcached, MongoDB, MySQL, OOP, SCRUM, Spring Boot, Spring Framework, TestContainers, Zookeeper"
 
       - company: "[VNGRS](https://vngrs.com)"
@@ -80,8 +80,8 @@ cv:
         start_date: 2017-06
         end_date: 2019-09
         highlights:
-          - "Consulting for **MAF Properties**; joined kick-off process for a rebranding of Ticketless Parking"
-          - "Consulting for **Beam**; implemented 'Ticketless Parking' integrating car parking payments with Beam"
+          - "Consulting for **MAF Properties**; participated in the kickoff of a Ticketless Parking rebranding initiative"
+          - "Consulting for **Beam**; implemented 'Ticketless Parking', integrating parking payments with Beam"
           - "Stabilized and adapted a mobile payment system to work in Dubai"
           - "Conducted a cloud migration from Sydney to Dubai"
           - "Consulting for **Socrata**; created an activity log service for auditing all platform activities"
@@ -94,7 +94,7 @@ cv:
         start_date: 2013-10
         end_date: 2016-10
         highlights:
-          - "First part-time then transitioned to full-time in **Shazam** team working on self-service campaign management portal"
+          - "Started part-time, then transitioned to full-time in the **Shazam** team, working on a self-service campaign management portal"
           - "Started by writing tests; moved to developing features, fixing bugs, and maintaining CI/CD and build systems"
           - "Reduced build times by 50%"
           - "**Skills:** Akka, AWS, DynamoDB, FP, Git, Kanban, MySQL, OOP, Play Framework, Reactive Programming, Redis, Redshift, SBT, Scala, Specs2"
@@ -113,7 +113,7 @@ cv:
       - name: "[periodik](https://github.com/makiftutuncu/periodik)"
         summary: "Read-only property delegate that can provide a value refreshed periodically."
       - name: "[spring-boot-crud](https://github.com/makiftutuncu/spring-boot-crud)"
-        summary: "Opinionated, REST-ful and generic CRUD operations for Spring Boot applications."
+        summary: "Opinionated, RESTful and generic CRUD operations for Spring Boot applications."
       - name: "[effect](https://github.com/makiftutuncu/effect)"
         summary: "Functional effect library in Scala."
       - name: "[e](https://github.com/makiftutuncu/e)"
